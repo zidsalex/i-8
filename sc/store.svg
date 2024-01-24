@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-package"><line x1="16.5" y1="9.4" x2="7.5" y2="4.21"></line><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path><polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline><line x1="12" y1="22.08" x2="12" y2="12"></line></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 80 80" style="enable-background:new 0 0 80 80;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:3.3333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.6667;}
+</style>
+<line class="st0" x1="47.5" y1="35.7" x2="32.5" y2="27"/>
+<path class="st0" d="M55,46.7V33.3c0-1.2-0.6-2.3-1.7-2.9l-11.7-6.7c-1-0.6-2.3-0.6-3.3,0l-11.7,6.7c-1,0.6-1.7,1.7-1.7,2.9v13.3
+	c0,1.2,0.6,2.3,1.7,2.9l11.7,6.7c1,0.6,2.3,0.6,3.3,0l11.7-6.7C54.4,49,55,47.9,55,46.7z"/>
+<polyline class="st0" points="25.5,31.6 40,40 54.5,31.6 "/>
+<line class="st0" x1="40" y1="56.8" x2="40" y2="40"/>
+</svg>

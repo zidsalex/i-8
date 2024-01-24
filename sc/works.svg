@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-briefcase"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 80 80" style="enable-background:new 0 0 80 80;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:3.3333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.6667;}
+</style>
+<path class="st0" d="M26.7,31.7h26.7c1.8,0,3.3,1.5,3.3,3.3v16.7c0,1.8-1.5,3.3-3.3,3.3H26.7c-1.8,0-3.3-1.5-3.3-3.3V35
+	C23.3,33.2,24.8,31.7,26.7,31.7z"/>
+<path class="st0" d="M46.7,55V28.3c0-1.8-1.5-3.3-3.3-3.3h-6.7c-1.8,0-3.3,1.5-3.3,3.3V55"/>
+</svg>
